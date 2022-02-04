@@ -1,4 +1,4 @@
-package seo03_primarydatatype;
+package sec03_primarydatatype;
 
 public class Ex02_PrimaryDataType_1 {
     public static void main(String[] args){

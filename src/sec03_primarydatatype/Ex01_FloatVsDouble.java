@@ -1,4 +1,4 @@
-package seo03_primarydatatype;
+package sec03_primarydatatype;
 
 public class Ex01_FloatVsDouble {
     public static void main(String[] args){

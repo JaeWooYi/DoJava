@@ -1,4 +1,4 @@
-package seo02_datatype;
+package sec02_datatype;
 
 public class Ex01_UsageOfDataType {
     public static void main(String[] args){
