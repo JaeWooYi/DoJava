@@ -13,11 +13,15 @@ public class Ex02_NamingVariableAndConstant {
         double main;
         // int my Work; // 스페이스 불가
         String myClassName;
-        int ABC;    // 전부 대문자 가능(권장 x)
+        int ABC;    // 전부 대문자 가능(권장 x) -> 상수로 인식 하기 때문에
+//        final int ABC = 7;  // 상수 : final
 
         // 상수
         final double PI;
         final int MY_DATA;
-        final float myData; // 소문자 사용(권장 x)
+        final float myData; // 소문자 사용(권장 x) -> 변수이름 규칙이기 때문
+
+//        abc();                    // 메서드 호출하는 법
+//        System.out.println(abc);    // 메서드와 변수의 이름은 같아도 된다
     }
 }

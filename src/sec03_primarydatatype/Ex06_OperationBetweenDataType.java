@@ -4,14 +4,14 @@ public class Ex06_OperationBetweenDataType {
     public static void main(String[] args){
         // 같은 자료형 간의 연산
         int a = 3 + 5;
-        int b = 8 / 5;  // -> int/int = int
+        int b = 8 / 5;  // -> int/int = int 값이 나온다.
         float c = 3.0f + 5.0f;
         double d = 8.0 / 5.0;
 
         byte data1 = 3;
         byte data2 = 5;
         // byte data3 = data1 + data2; -> data1 + data2 는 int형 이므로 오류
-        int e = data1 + data2;
+        int e = data1 + data2;  // int e로 출력 해야 함.
 
         System.out.println(a);
         System.out.println(b);

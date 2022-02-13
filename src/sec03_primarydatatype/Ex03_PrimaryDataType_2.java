@@ -3,6 +3,8 @@ package sec03_primarydatatype;
 public class Ex03_PrimaryDataType_2 {
     public static void main(String[] args){
         // 문자로 저장하는 방법
+        // 문자(char) : 문자, 정수
+
         char value1 = 'A';
         char value2 = '가';
         char value3 = '3';  // -> 숫자 3 x , 문자 3

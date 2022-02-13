@@ -23,7 +23,7 @@ public class Ex02_PrimaryDataType_1 {
         // 실수( float, double ) : 음의 실수 / 0 / 양의 실수
         float value5 = 1.2F;    // float 자료형으로 인식
         double value6 = -1.5;
-        double value7 = 5;  // 자동 타입 변환
+        double value7 = 5;  // 자동 타입 변환 : 앞에 double이기 때문에 실수로 바꿔서 저장
         System.out.println(value5);
         System.out.println(value6);
         System.out.println(value7); // 실수 값으로 출력
