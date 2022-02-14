@@ -22,8 +22,9 @@ public class Ex04_RelationOperator {
         System.out.println();
 
         // @참조 자료형 등가 비교
+        // 참조 자료형은 힙영역에 데이터를 저장
         String a2 = new String("안녕");
         String b2 = new String("안녕");
-        System.out.println(a2 == b2);
+        System.out.println(a2 == b2);   // -> 스택의 값을 비교하기 때문에 false
     }
 }
