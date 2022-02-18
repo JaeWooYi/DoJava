@@ -1,4 +1,4 @@
-package sec08_referencedatatype;
+package sec08_referencedatatype_Array_1dMatrix;
 
 import java.util.Arrays;
 

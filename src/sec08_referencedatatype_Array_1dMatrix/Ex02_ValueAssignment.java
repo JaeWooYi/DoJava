@@ -1,4 +1,4 @@
-package sec08_referencedatatype;
+package sec08_referencedatatype_Array_1dMatrix;
 
 public class Ex02_ValueAssignment {
     public static void main(String[] args){

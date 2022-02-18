@@ -1,6 +1,4 @@
-package sec08_referencedatatype;
-
-import java.util.Arrays;
+package sec08_referencedatatype_Array_1dMatrix;
 
 public class Ex01_arrayDefinition {
     public static void main(String[] args){

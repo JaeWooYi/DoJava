@@ -1,4 +1,4 @@
-package sec08_referencedatatype;
+package sec08_referencedatatype_Array_1dMatrix;
 
 public class Ex04_PrimaryAndReferenceType {
     public static void main(String[] args){
