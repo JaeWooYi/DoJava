@@ -78,9 +78,23 @@ public class review02 {
             System.out.print(k + " ");  // 40 까지 나오겠지
         }
         System.out.println();
+        System.out.println();
 
         // while 구조
         System.out.println("6-----");
-
+        // Ex02_WhileControlStatement 부터해
+        System.out.println("6_1");
+        int k = 0;
+        while(k < 10){
+            System.out.print(k + " ");
+            k++;
+        }
+        System.out.println();
+        System.out.println("6_2");
+        // for문으로 바꿔서 써봐 위에 와일문
+        for(k = 0; k < 10; k++){
+            System.out.print(k + " ");
+        }
+        System.out.println();
     }
 }
