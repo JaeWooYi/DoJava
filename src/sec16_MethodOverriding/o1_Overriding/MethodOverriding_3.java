@@ -1,4 +1,4 @@
-package sec16_MethodOverriding;
+package sec16_MethodOverriding.o1_Overriding;
 
 class AA{
     void print1(){
