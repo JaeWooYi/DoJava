@@ -70,6 +70,6 @@ public class ex03_ObjectMethod_hashcode {
         hm3.put(new BBB("2st"),"data3");
         System.out.println(hm3);
 
-// hard day
+// hard day..
     }
 }
