@@ -1,4 +1,4 @@
-package sec24_Thread.t01_TheNeedForThread;
+package sec24_1_Thread.t01_TheNeedForThread;
 
 public class TheNeedForThread {
     public static void main(String[] args) {
